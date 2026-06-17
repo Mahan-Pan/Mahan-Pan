@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mahan-p-1433b1364/">LinkedIn</a> ·
   <a href="mailto:mahanpanahande@gmail.com">mahanpanahande@gmail.com</a> ·
-  Toronto, ON · Canadian Permanent Resident
+  Toronto, ON 
 </p>
 
 ---
